@@ -9,7 +9,7 @@ import instagram from "../images/icon-instagram.svg";
 function Footer() {
   return (
     <footer className=" bg-Primary-DarkBlue">
-      <div className="flex flex-col items-center justify-center gap-6 p-12 lg:justify-between lg:flex-row">
+      <div className="flex flex-col items-center justify-center w-full gap-6 p-12 mx-auto lg:justify-between lg:flex-row max-w-7xl">
         <div className="flex flex-col items-center justify-center w-full lg:flex-row gap-7 lg:gap-20">
           <div className="flex flex-col justify-between gap-6 lg:gap-12">
             <div>
@@ -62,7 +62,7 @@ function Footer() {
           </div>
         </div>
 
-        <div className="flex flex-col items-center justify-center w-full gap-4 text-center">
+        <div className="flex flex-col items-center justify-center w-full max-w-xs gap-4 text-center">
           <button className="py-3 font-bold rounded-full px-7 bg-gradient-to-r from-Primary-LimeGreen to-Primary-BrightCyan hover:opacity-50 text-Neutral-White">
             Request invite
           </button>
