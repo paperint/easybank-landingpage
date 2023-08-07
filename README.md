@@ -1,3 +1,6 @@
+# Netlify
+https://extraordinary-buttercream-315853.netlify.app/
+
 # Frontend Mentor - Easybank landing page
 
 ![Design preview for the Easybank landing page coding challenge](./src/design/desktop-preview.jpg)
