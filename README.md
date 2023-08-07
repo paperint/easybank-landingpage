@@ -1,3 +1,7 @@
+# Frontend Mentor - Easybank landing page
+
+![Design preview for the Easybank landing page coding challenge](./src/design/desktop-preview.jpg)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
